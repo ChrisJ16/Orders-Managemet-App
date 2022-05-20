@@ -1,0 +1,6 @@
+Nume client: Traian Vasile
+Adresa client: Str. Eroilor, Nr.3
+Telefon client: 9475638367
+Total produse: 24
+Produs: Paine secara, Pret: 6, Cantitate: 2, Total/produs: 12 lei
+Produs: Salam, Pret: 12, Cantitate: 1, Total/produs: 12 lei

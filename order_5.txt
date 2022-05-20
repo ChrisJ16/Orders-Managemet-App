@@ -1,0 +1,7 @@
+Nume client: Popa Cristian
+Adresa client: Str. Fantanele
+Telefon client: 0786150483
+Total produse: 101
+Produs: Mere, Pret: 4, Cantitate: 2, Total/produs: 8 lei
+Produs: Clor, Pret: 23, Cantitate: 3, Total/produs: 69 lei
+Produs: Paine secara, Pret: 6, Cantitate: 4, Total/produs: 24 lei

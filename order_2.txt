@@ -1,0 +1,5 @@
+Nume client: Popa Cristian
+Adresa client: Str. Fantanele
+Telefon client: 0786150483
+Total produse: 136
+Produs: Mere, Pret: 4, Cantitate: 34, Total/produs: 136 lei

@@ -1,0 +1,8 @@
+Nume client: Kent Clark
+Adresa client: Str. Fabricii
+Telefon client: 0757493747
+Total produse: 77
+Produs: Mere, Pret: 4, Cantitate: 4, Total/produs: 16lei
+Produs: Clor, Pret: 23, Cantitate: 1, Total/produs: 23lei
+Produs: Paine secara, Pret: 6, Cantitate: 1, Total/produs: 6lei
+Produs: Cirese, Pret: 16, Cantitate: 2, Total/produs: 32lei

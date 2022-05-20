@@ -1,0 +1,6 @@
+Nume client: Kent Clara
+Adresa client: Str. Fabricii
+Telefon client: 0757493747
+Total produse: 34
+Produs: Paine secara, Pret: 6, Cantitate: 3, Total/produs: 18 lei
+Produs: Cirese, Pret: 16, Cantitate: 1, Total/produs: 16 lei

@@ -1,0 +1,6 @@
+Nume client: Toderici Diana
+Adresa client: Str.Parangului
+Telefon client: 0837839932
+Total produse: 60
+Produs: Holi Canoli, Pret: 21, Cantitate: 2, Total/produs: 42 lei
+Produs: Paine secara, Pret: 6, Cantitate: 3, Total/produs: 18 lei
